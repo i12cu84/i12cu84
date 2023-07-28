@@ -26,7 +26,7 @@
 
 🤝 I accept all technical support and communication, and don't forget to invite me to play games!
 
-📞 You can contact me by e-mail: i12cu84@qq.com. Of course.
+📞 You can contact me by e-mail: i12cu84@foxmail.com. Of course.
 
 P.S.1: My English is not very good. I'm sorry that most of my notes are in Chinese. If possible, I will try to express some key content in English.
 
