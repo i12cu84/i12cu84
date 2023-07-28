@@ -1,6 +1,6 @@
 ### Welcome to the homepage 👋
 
-👋 Hi, I' m @i12cu84(I want to see you ete for). Real name is 彧然, from China WenZhou, live in Chengdu now.
+👋 Hi, I' m @i12cu84(I want to see you ete for...). Real name is 彧然, from China WenZhou, live in Chengdu now.
 
 📚 Graduated from the Mathematics Department of CC Royal University of Technology in 2022.
 
@@ -26,7 +26,7 @@
 
 🤝 I accept all technical support and communication, and don't forget to invite me to play games!
 
-📞 You can contact me by e-mail: 631061931@qq.com. Of course, my qq number is also 631061931.
+📞 You can contact me by e-mail: i12cu84@qq.com. Of course.
 
 P.S.1: My English is not very good. I'm sorry that most of my notes are in Chinese. If possible, I will try to express some key content in English.
 
