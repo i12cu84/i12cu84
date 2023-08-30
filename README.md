@@ -28,6 +28,8 @@
 
 📞 You can contact me by e-mail: i12cu84@foxmail.com. If I can help you.
 
+P.S.-1: There are a lot of treasure in my library, oh, I hope to help you, if you don't dislike it, please collect it, this is not a small encouragement to me, thank you!
+
 P.S.0: My English is not very good. I'm sorry that most of my notes are in Chinese. If possible, I will try to express some key content in English.
 
 P.S.1: I'm focusing on U++ right now and probably won't delve into anything else, but I can get up to speed quickly and love to learn.
