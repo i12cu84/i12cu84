@@ -4,16 +4,16 @@
 
 🏆 Have won the provincial first prize in [mathematical modeling](https://github.com/i12cu84/Mathematical-Modeling-Python).
 
-🎯 I've been obsessed with programming since junior high school, in the end chose U++(Unreal Engine and C++)
+🎯 I've been obsessed with programming since junior high school, in the end chose U++([notes](https://github.com/i12cu84/Unreal_Engine_Develop_Notes))
 
 🖊️ I've dabbled in a lot of fields so far, you can see [the previous notes I uploaded](https://github.com/i12cu84/I12cu84-Learn-Notes).
 
 📞 You can contact me by [e-mail](i12cu84@foxmail.com). If I can help you.
 
-
 <details>
-<summary>PS</summary>
+<summary>ps...</summary>
 <pre><code>
+
 There are a lot of treasure in my library, oh, I hope to help you, if you don't dislike it, please collect it, this is not a small encouragement to me, thank you!
 
 My English is not very good. I'm sorry that most of my notes are in Chinese. If possible, I will try to express some key content in English.
