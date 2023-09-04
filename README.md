@@ -1,8 +1,8 @@
 ### Welcome to the homepage 👋
 
-👋 Hi, I' m [@i12cu84](https://github.com/i12cu84), graduated from CC Royal Institute of Technology, live in ChengDu now.
+👋 Hi, I' m [@i12cu84](https://github.com/i12cu84), graduated from CC Royal Institute of Technology, and [do the graduation design](https://github.com/i12cu84/Financial-Credit-Analysis-Graduation-Project-Python)
 
-🏆 Have won the provincial first prize in [mathematical modeling](https://github.com/i12cu84/Mathematical-Modeling-Python).
+🏆 Have won the provincial first prize in [mathematical modeling](https://github.com/i12cu84/Mathematical-Modeling-Python).(👆**Graduation design is optimized**)
 
 🎯 I've been obsessed with programming since junior high school, in the end chose U++([notes](https://github.com/i12cu84/Unreal_Engine_Develop_Notes))
 
