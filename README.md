@@ -1,47 +1,30 @@
 ### Welcome to the homepage 👋
 
-👋 Hi, I' m [@i12cu84](https://github.com/i12cu84), graduated from CC Royal Institute of Technology, and [done the graduation design](https://github.com/i12cu84/Financial-Credit-Analysis-Graduation-Project-Python).
+👋 Hi, I' m [@i12cu84](https://github.com/i12cu84), graduated from CC Royal Institute of Technology.live in ChengDu now.
 
-🏆 Have won the provincial first prize in [mathematical modeling](https://github.com/i12cu84/Mathematical-Modeling-Python).(**This version is optimized**👆)
+🏆 Have won the provincial first prize in mathematical modeling.[Old-Papaer](https://github.com/i12cu84/Mathematical-Modeling-Python) and [New-Paper](https://github.com/i12cu84/Financial-Credit-Analysis-Graduation-Project-Python).
 
-🎯 I've been obsessed with programming since junior high school, in the end chose U++([notes](https://github.com/i12cu84/Unreal_Engine_Develop_Notes) [Libraries](https://github.com/i12cu84/Blueprint-Function-Libraries-from-mine) and [Plugins](https://github.com/i12cu84/Add-Tag-plugins-for-Unreal-Engine-Cpp)).
+🎯 I've been obsessed with programming since junior high school, in the end chose U+([Notes](https://github.com/i12cu84/Unreal_Engine_Develop_Notes) [Libraries](https://github.com/i12cu84/Blueprint-Function-Libraries-from-mine) and [Plugins](https://github.com/i12cu84/Add-Tag-plugins-for-Unreal-Engine-Cpp)).
 
 🖊️ I've dabbled in a lot of fields so far, you can see [the previous notes](https://github.com/i12cu84/I12cu84-Learn-Notes) I uploaded.
 
 📞 You can contact me by [e-mail](i12cu84@foxmail.com). If I can help you.
 
 <details>
-<summary>ps...</summary>
+<summary>about...</summary>
 <pre><code>
 
-There are a lot of treasure in my library, oh, I hope to help you, if you don't dislike it, 
+There are a lot of treasure in my library, hope to help you, if you don't dislike it.
+
 please collect it, this is not a small encouragement to me, thank you!
 
-My English is not very good. I'm sorry that most of my notes are in Chinese. If possible, 
-I will try to express some key content in English.
+I now focus on u++, learning is a process, need patience.
 
-I'm focusing on U++ right now and probably won't delve into anything else, 
-but I can get up to speed quickly and love to learn.
-
-MBTI is an ISFJ, wish I knew you.
-
-[my lib](https://github.com/i12cu84?tab=repositories) And [more](https://github.com/i12cu84/i12cu84) 
+[my lib](https://github.com/i12cu84?tab=repositories) And [more if u **download**](https://github.com/i12cu84/i12cu84) 
 </code></pre>
 </details>
 
 <!--
-**i12cu84/i12cu84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 -> later homepage
 
