@@ -8,7 +8,7 @@
 
 🖊️ I've dabbled in a lot of fields so far, you can see [the previous notes](https://github.com/i12cu84/I12cu84-Learn-Notes) I uploaded.
 
-📞 You can contact me by [e-mail](i12cu84@foxmail.com) or [Tencent-QQ](https://link.zhihu.com/?target=http%3A//wpa.qq.com/msgrd%3Fv%3D3%26uin%3D26198573%26site%3Dqq%26menu%3Dyes). If I can help you.
+📞 You can contact me by [e-mail](i12cu84@foxmail.com) or [Tencent-QQ](https://wpa.qq.com/msgrd?v=3&uin=631061931&site=qq&menu=yes&jumpflag=1). If I can help you.
 
 <details>
 <summary>about...</summary>
