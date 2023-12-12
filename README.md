@@ -8,10 +8,4 @@
 
 🖊️ I've dabbled in a lot of fields so far, you can see [the previous notes](https://github.com/i12cu84/I12cu84-Learn-Notes) I uploaded.
 
-PS:
-
-There are a lot of treasure in my library, hope to help you, if you don't dislike it.
-
-please collect it, this is not a small encouragement to me, thank you!
-
-I now focus on u++, learning is a process, need patience.
+👍 Hope to help you, please star it, means a lot to me, thank you!
