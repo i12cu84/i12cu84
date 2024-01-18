@@ -9,3 +9,5 @@
 🖊️ I've dabbled in a lot of fields so far, you can see [the previous notes](https://github.com/i12cu84/I12cu84-Learn-Notes) I uploaded.
 
 👍 Hope to help you, please star it, means a lot to me, thank you!
+
+✉ [Email](i12cu84@foxmail.com) Me
