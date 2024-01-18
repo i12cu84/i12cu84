@@ -10,4 +10,4 @@
 
 👍 Hope to help you, please star it, means a lot to me, thank you!
 
-✉ [Email](i12cu84@foxmail.com) Me
+✉ Email Me : i12cu84@foxmail.com
