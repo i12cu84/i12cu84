@@ -10,4 +10,4 @@
 
 👍 Hope to help you, please star it, means a lot to me, thank you!
 
-✉ Email Me : i12cu84@foxmail.com
+✉ Always couldn't connect to server, so reduce upload frequency, if necessary please send email to : i12cu84@foxmail.com
